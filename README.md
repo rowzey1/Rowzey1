@@ -38,7 +38,7 @@
   <a href="https://rosybasilkalu.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
   </a>
-  <a href="www.linkedin.com/in/rosy-basil-kalu">
+  <a href="https://www.linkedin.com/in/rosy-basil-kalu/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
   </a>
 </p>
