@@ -6,7 +6,7 @@
 <li>👨‍💻 I'm currently building a clothing app that generates an outfit of the day using uploaded pictures from users closet, and an integrated Weather API.</li>
 <li>👀 I am interested in technology, science, fashion, art, and nature. </li>
 <li>💞️ I’m passionate about innovative technology that solves real human problems. </li>
-<li>⚡ Fun fact:I enjoy taking really long walks by the beach.</li>
+<li>⚡ Fun fact: I enjoy taking really long walks by the beach.</li>
 </ul>
 
 ## 💻 Tech Stack 
