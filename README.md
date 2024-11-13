@@ -36,7 +36,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>    
 </div></table>
 
-<h2>📫 How to Connect with me</h2>
+<h2>📫 Connect with me</h2>
 <p> 
   <a href="https://rosybasilkalu.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
