@@ -3,6 +3,8 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/5702fa59-26e7-4984-9655-bd0a6286d246)
 <h1>Welcome to my Github👋</h1>
 <ul>
+<li>🖥️ I am a full-stack Software Engineer. </li>  
+    ⌨️  
 <li>👨‍💻 I'm currently building a clothing app that generates an outfit of the day using uploaded pictures from users closet, and an integrated Weather API.</li>
 <li>👀 I am interested in technology, science, fashion, art, and nature. </li>
 <li>💞️ I’m passionate about innovative technology that solves real human problems. </li>
