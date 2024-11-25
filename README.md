@@ -5,7 +5,7 @@
 <ul>
 <li>🖥️ I am a full-stack Software Engineer. </li>  
     ⌨️  
-<li>👨‍💻 I'm currently building a clothing app that generates an outfit of the day using uploaded pictures from users closet, and an integrated Weather API.</li>
+<li>👨‍💻 I'm currently building a clothing app that generates an outfit of the day using uploaded pictures from users closet. Outfit suggestions are based on the weather of the users current location.</li>
 <li>👀 I am interested in technology, science, fashion, art, and nature. </li>
 <li>💞️ I’m passionate about innovative technology that solves real human problems. </li>
 <li>⚡ Fun fact: I enjoy taking really long walks by the beach.</li>
