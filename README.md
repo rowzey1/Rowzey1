@@ -1,7 +1,9 @@
 
 
 ![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/5702fa59-26e7-4984-9655-bd0a6286d246)
+
 <h1>Welcome to my Github👋</h1>
+
 <ul>
 <li>🖥️ I am a full-stack Software Engineer. </li>  
     ⌨️  
@@ -10,6 +12,19 @@
 <li>💞️ I’m passionate about innovative technology that solves real human problems. </li>
 <li>⚡ Fun fact: I enjoy taking really long walks by the beach.</li>
 </ul>
+
+
+
+## 📫 Connect with me
+
+  <a href="https://rosybasilkalu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
+  </a>
+    
+  <a href="https://www.linkedin.com/in/rosy-basil-kalu/">
+    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
+  </a>
+
 
 ## 💻 Tech Stack 
 
@@ -20,19 +35,9 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-    
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>     
 </div>
 
-<h2>📫 Connect with me</h2>
-<p> 
-  <a href="https://rosybasilkalu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/rosy-basil-kalu/">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
-  </a>
-</p>
 
 
 
